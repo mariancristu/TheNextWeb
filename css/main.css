@@ -265,7 +265,6 @@
   .topic {
     color: #f42;
     text-decoration: none;
-    
     font-weight: 600;
     margin-top: 2%;
   }
@@ -1086,7 +1085,6 @@
   padding-left: 15px;
 }
 
-.text-size
-{
+.text-size {
   font-size: 26px !important;
 }
